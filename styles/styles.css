@@ -5,3 +5,8 @@ body {
   font-family: "Lucida Sans", sans-serif;
   color: #00376c;
 }
+/* links */
+a {
+  color: ##00376c;
+  text-decoration: none;
+}
