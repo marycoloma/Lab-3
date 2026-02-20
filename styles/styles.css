@@ -46,3 +46,6 @@ footer {
   background-color: #e7e7e7;
 }
 /* image size */
+img {
+  width: 150px;
+}
