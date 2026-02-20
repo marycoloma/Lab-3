@@ -40,3 +40,8 @@ footer {
 /* grey boxes */
 .story,
 .services,
+.locations {
+  padding: 10px 15px;
+  margin-bottom: 40px;
+  background-color: #e7e7e7;
+}
