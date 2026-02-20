@@ -26,4 +26,7 @@ h3 {
 /* header and footer*/
 header {
   border-bottom: 6px solid #7b7b7b;
+  line-height: 80px;
+  background-color: #c7e3ff;
+  text-align: center;
 }
