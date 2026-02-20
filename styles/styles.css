@@ -13,3 +13,8 @@ a {
 a:hover {
   text-decoration: underline;
 }
+/* heading styles */
+h2 {
+  border-bottom: 2px solid #7b7b7b;
+  text-align: center;
+}
